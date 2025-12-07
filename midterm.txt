@@ -1,0 +1,60 @@
+Q1: A computer cannot 'boot' if it does not have the__?
+Answer: Operating system
+
+Q2: XML stands for __?
+Answer: Extensible Markup Language
+
+Q3: The common name for the crime of stealing passwords is__?
+Answer: Spoofing
+
+Q4: IBM stands for__?
+Answer: International Business Machines
+
+Q5: No. of different characters in ASCII coding system?
+Answer: 1024
+
+Q6: First page of Website is termed as__?
+Answer: Homepage
+
+Q7: Unit of measurement of the output quality of a printer?
+Answer: Dot per sq. inch
+
+Q8: BIOS stands for __?
+Answer: Basic Input Output System
+
+Q9: EEPROM stands for__?
+Answer: Electronic Erasable Programmable Read Only Memory
+
+Q10: In a computer, most processing takes place in__?
+Answer: CPU
+
+Q11: Who is the father of personal computer?
+Answer: Edward Robert
+
+Q12: What is the software frequently utilized by end users called (like Word, PowerPoint)?
+Answer: Application Software
+
+Q13: A computer program that converts an entire program into machine language atone time is called__?
+Answer: Characters
+
+Q14: Which type of storage device is a BIOS ?
+Answer: Primary
+
+Q15: What translates and executes program at run time line by line?
+Answer: Interpreter
+
+Q16: In 1999, the Melissa virus was a widely publicised__?
+Answer: E-mail virus
+
+Q17: An image on a computer screen is made up of__?
+Answer: Pixels
+
+Q18: What is the name of an application program that gathers user information and sends it to someone through the Internet?
+Answer: Spybot
+
+Q19: What are Light pen and joystick ?
+Answer: Input Devices
+
+Q20: ASCII stands for__?
+Answer: American Standard Code for Information Interchange
+
