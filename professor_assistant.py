@@ -60,3 +60,7 @@ while True:
 
     else:
         print("Please type Yes or No only.")
+if __name__ == "__main__":
+    
+    main()
+
